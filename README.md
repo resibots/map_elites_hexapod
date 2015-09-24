@@ -12,4 +12,4 @@ See in particular the supplementary information.
 
 ## Compiling
 
-This module depends on (Robdyn)[https://github.com/resibots/robdyn] and on (Sferes_v2)[https://github.com/sferes2/sferes2]. Do not forget to add the robdyn module to sferes2.
+This module depends on [Robdyn](https://github.com/resibots/robdyn) and on [Sferes_v2](https://github.com/sferes2/sferes2). Do not forget to add the robdyn module to sferes2.
