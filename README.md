@@ -40,7 +40,7 @@ See in particular the supplementary information.
 - Compile sferes2 with: `./waf`
 - Create an experiment folder (if there's none) and cd to it: `mkdir exp && cd exp`
 - Clone map_elites_hexapod: `git clone https://github.com/resibots/map_elites_hexapod.git`
-- Go back to your `sfere2` root directory
+- Go back to your `sferes2` root directory
 - Compile the experiment: `./waf --exp map_elites_hexapod`
 
 ## How to run it
