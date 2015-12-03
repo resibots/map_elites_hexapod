@@ -1,9 +1,7 @@
-//| This file is a part of the sferes2 framework.
-//| Copyright 2009, ISIR / Universite Pierre et Marie Curie (UPMC)
+//| This file is a part of the ERC ResiBots project.
+//| Copyright 2015, ISIR / Universite Pierre et Marie Curie (UPMC)
 //| Main contributor(s): Jean-Baptiste Mouret, mouret@isir.fr
-//|
-//| This software is a computer program whose purpose is to facilitate
-//| experiments in evolutionary computation and evolutionary robotics.
+//|                      Antoine Cully, cully@isir.upmc.fr
 //|
 //| This software is governed by the CeCILL license under French law
 //| and abiding by the rules of distribution of free software.  You
@@ -31,6 +29,7 @@
 //|
 //| The fact that you are presently reading this means that you have
 //| had knowledge of the CeCILL license and that you accept its terms.
+
 
 
 
