@@ -19,6 +19,7 @@ See in particular the supplementary information.
 ### Dependencies
 
 - [robdyn]: Dynamic simulator
+    - Make sure you have installed `ODE` by sources and using this [trick](https://github.com/resibots/robdyn/issues/3#issuecomment-148740769).
     - Get the code: `git clone https://github.com/jbmouret/robdyn.git`
     - Configure for compilation/installation: `./waf configure`
     - Compile with `./waf`
