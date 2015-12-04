@@ -17,7 +17,7 @@ Video (click on it to play):
 *Other parts of the experiments published in the paper:*
 - [limbo]: A lightweight framework for Bayesian and model-based optimisation of black-box functions
 - [Sferes2]: A high-performance, multi-core, lightweight, generic C++98 framework for evolutionary computation.
-- [ITE](https://www.github.com/resibots/ITE)
+- [ITE](https://www.github.com/resibots/ITE): Intelligent Trial & Error algorithm
 
 ## Authors
 - Original author : Antoine Cully
